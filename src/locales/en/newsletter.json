@@ -1,0 +1,13 @@
+{
+  "title": "Subscribe to our Newsletter!",
+  "description": "Stay updated with the latest news and updates from our research projects.",
+  "namePlaceholder": "Enter your name",
+  "emailPlaceholder": "Enter your email",
+  "subscribeButton": "Subscribe",
+  "statusSuccess": "Subscription request email has been opened in your email client.",
+  "statusError": "Failed to subscribe. Please try again.",
+  "privacyPolicy": "Read our",
+  "privacyPolicyLink": "privacy policy",
+  "newsletterBody": "Dear Adomis Team,%0D%0A%0D%0AI would love to stay updated with all the latest news and insights. Please subscribe me to the newsletter list.%0D%0A%0D%0AEmail: ",
+  "newsletterThanks": "Thank you"
+}

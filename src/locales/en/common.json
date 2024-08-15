@@ -1,0 +1,45 @@
+{
+  "navbar": {
+    "home": "Home",
+    "news": "News",
+    "project": "Project",
+    "survey": "Survey",
+    "about": "About Us",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "vision": "Vision",
+    "interviewStudies": "Interview study",
+    "surveyStudies": "Survey study"
+  },
+  "footer": {
+    "description": "Footer content goes here",
+    "aboutTitle": "About Us",
+    "aboutContent": "We are dedicated to providing the best service possible. Learn more about our mission and values.",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact Us",
+    "contactDetails": "Email: info@adomis-project.de\nPhone: 030 209346200\nAddress: Georgenstraße 47, 10117 Berlin",
+    "copyright": "&copy; 2024 Adomis. All rights reserved.",
+    "stayUpdated": "Stay up to date with the project progress and announcements."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to reach out to us using the form below."
+  },
+  "newsletter": {
+    "newsletterTitle": "Our Newsletter",
+    "newsletterDescription": "Stay up to date with the project progress, announcements, and exclusive content. Feel free to sign up with your email.",
+    "newsletterPlaceholder": "Enter your email",
+    "newsletterSubscribe": "Subscribe",
+    "newsletterPrivacy": "We care about the protection of your data. Read our",
+    "newsletterPrivacyLink": "Privacy Policy"
+  },
+  "news": {
+    "title": "News"
+  },
+  "fundedBy": "Funded by",
+  "latestNews": "Latest News",
+  "home": {
+    "title": "Empirical research on diversity at universities",
+    "content": "Welcome to the website of our mixed-method research project on diversity at universities. We are a six-member, interdisciplinary team that combines expertise from sociology, gender studies, psychology, political and communication science. The aim of the project is to empirically investigate marginalization mechanisms in research careers and to develop solutions for more equitable opportunities in the academic system. Our approach is guided by an intersectional perspective and participatory principles. Experts with firsthand experiences of marginalization in academia are involved in the qualitative interview process, as well as in the development of a large-scale quantitative survey of researchers at four Berlin research institutions."
+  }
+}
